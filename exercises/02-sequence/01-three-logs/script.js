@@ -6,3 +6,6 @@
 // TODO: Add your second console.log() statement here (middle step)
 
 // TODO: Add your third console.log() statement here (finishing the process)
+console.log("Getting bread and ingerdients");
+console.log("Adding filling to the sandwich");
+console.log("Sandwich is ready to eat");
